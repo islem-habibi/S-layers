@@ -1,4 +1,4 @@
-# S-layer
+# S-layers
 This repository is for presenting data and results of S-layer proteins (SLPs) analysis. SLPs have been studied according to their properties/functions
 ## Radioresistance
 This directory contains data about analysis of Radioresistance-related SLPs. 
