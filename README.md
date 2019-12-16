@@ -7,7 +7,7 @@ here we have studied the SlpA of a radioresistant bacterium *D. radiodurans* and
 Resumes the computational analysis pipline applied to the collected proteins (the SlpA of *D. radiodurans* as well as its simmilar proteins)
 ### radiation_data
 This table contains all the available data extracted from bibliography of our proteins
-### dom_search table
+### dom_search
 This table contains information about the detected domains by sequence homogy when querying the SlpA of *D. radiodurans*
 ### Fasta
 This directory contains fasta files of the studied proteins
