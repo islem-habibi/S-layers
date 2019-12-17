@@ -1,0 +1,10 @@
+,,,,,,
+SlpA Orthologs,UniProt ID,Properties,D10 (KGy) for survival of gamma radiation,sequence identity with DR SlpA %,E-value,
+,,,,,Blast,othoInspector
+D. radiodurans R1,Q9RRB6,RR,12.0 – 16.0,,,
+Marinithermus hydrothermalis DSM 14884,F2NLR7,ND,ND,27.4,"4,00E-59","3,00E−60"
+Oceanithermus profundus strain DSM 14977,E4U6P8,ND,ND,27.4,"1,00E-52","1,00E−53"
+Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579),Q5SH37,NR,0.8,25.1,,"5,00E−53"
+Meiothermus ruber (strain ATCC 35948 / DSM 1279 / VKM B-1258 / 21) (Thermus ruber),M9X9M1,ND,ND,25.5,,"8,00E−53"
+Truepera radiovictrix (strain DSM 17093 / CIP 108686 / LMG 22925 / RQ-24),D7CWT9,RR,>5,"24,4",,"3,00E−21"
+Deinococcus yavapaiensis (strain KR-236T),A0A318RZ80,RR,Strain KR-236T is resistant to >10 kGy,31,"2,00E−52",
