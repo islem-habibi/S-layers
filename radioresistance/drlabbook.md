@@ -3740,11 +3740,11 @@ Number of predicted hairpin segments/regions: 22
 
 
 
-here, an alignment with the predicted DR beta-barrel region was aligned to the SlpA of T.thermophilus, D.yavapaiensis and T.radiovictrix using teh water alogorithm
+here, an alignment with the predicted DR beta-barrel region was aligned to the SlpA of *T. thermophilus*, *D. yavapaiensis* and *T. radiovictrix* using the water alogorithm
 
 
 
-The percentage of identity of the predicted beta -barrel region and the slpa of t.thermophilus was about 29.1%
+The percentage of identity of the predicted beta -barrel region and the slpa of *T. thermophilus* was about 29.1%
 
 
 
