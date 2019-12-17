@@ -1,0 +1,29 @@
+IonCom Result Page
+Input
+PDB (predicted Beta-barrel structure of the D.radiodurans SlpA)
+
+results for ZN
+Predicted Binding Residue(s):
+N34 D36 D40 Y65 G66 D72 E76 E105 D129 H131 Y164 G278 D341 D350 D376 G412 C415 D417 N419 D426 D441 T445 C448 E455 H458 A487 D491 D500 D564 R566 D587 D613 D615 Y620 E662 N669
+
+results for FE
+Predicted Binding Residue(s):
+R607 K679
+
+results for MG
+Predicted Binding Residue(s):
+V512 N522 L525
+
+results for NA
+Predicted Binding Residue(s):
+Y25 R38 G39 G41 K58 Q60 G94 D122 V123 G136 H140 S141 S160 D203 G273 Q274 P287 A289 T309 E310 G312 S323 G365 L366 G367 A416 N419 G421 D428 D441 Q442 R444 T445 V467 F471 D491 F492 S493 G494 S495 R533 R551 P552 Q553 N555 N571 N573 A574 N575 A576 L632 G675
+
+results for K
+Predicted Binding Residue(s):
+L653
+
+results for CO3
+Predicted Binding Residue(s):
+K1
+
+No binding site detected for the following ions:(CU, FE2, CA, MN, NO2, SO4, PO4)
