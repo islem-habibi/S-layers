@@ -1,0 +1,34 @@
+-----------------------------------------------------------------
+Explanation for seqid.all_in_one.zip
+-----------------------------------------------------------------
+
+0README_overall       : This README file
+
+seqid		      : the ID assigned by the server to the query sequence
+
+seqid.fasta           : the user input sequence in FASTA format
+
+seqid.a2m             : Multiple Sequence Alignment (MSA) in A2M format
+seqid.a3m             : Multiple Sequence Alignment (MSA) in A3M format
+
+seqid.gcnn	      : predicted contact matrix in text format
+
+seqid.rr	      : a list of top predicted contacts in the CASP format
+
+seqid.png             : an image file for the predicted contact matrix
+
+models/               : The folder contains the predicted five 3D models.
+  0README             : a README file
+
+  seqid_model_X.pdb   : The predicted models in PDB format, where X ranges from 1 to 5.
+
+  seqid.model_summary : The file contains the NOE violation in Angstrom of the predicted 3D models. Model error is proportional to NOE violation.
+
+
+In this package, except the image file, all the other files are saved in plain text format.
+
+For method details, please consult Dr. Jinbo Xu @ jinboxu@gmail.com or read the following papers:
+
+1. Sheng Wang, Siqi Sun and Jinbo Xu. Analysis of deep learning methods for blind protein contact prediction in CASP12. PROTEINS, 2017
+2. Sheng Wang, Zhen Li, Yizhou Yu and Jinbo Xu. Folding Membrane Proteins by Deep Transfer Learning. Cell Systems, 2017
+3. Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang and Jinbo Xu. Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model. PLoS Computational Biology, 2017.
