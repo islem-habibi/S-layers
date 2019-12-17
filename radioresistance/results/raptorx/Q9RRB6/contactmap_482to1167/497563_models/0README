@@ -1,0 +1,19 @@
+-----------------------------------------------------------------
+Explanation for seqid_models.zip
+-----------------------------------------------------------------
+
+0README             : This README file.
+
+seqid		    : The ID assigned by RaptorX-Contact Server to the query sequence
+
+seqid_model_X.pdb   : The predicted five 3D models in PDB format, where X ranges from 1 to 5.
+
+seqid.model_summary : The file contains the NOE violation in Angstrom of the predicted 3D models. Model error is proportional to the NOE violation.
+
+In this package, all files can be opened by WordPad on Windows or vi on Linux.
+
+For method details, please consult Dr. Jinbo Xu @ jinboxu@gmail.com or read the following papers:
+
+1. Sheng Wang, Siqi Sun and Jinbo Xu. Analysis of deep learning methods for blind protein contact prediction in CASP12. PROTEINS, 2017
+2. Sheng Wang, Zhen Li, Yizhou Yu and Jinbo Xu. Folding Membrane Proteins by Deep Transfer Learning. Cell Systems, 2017
+3. Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang and Jinbo Xu. Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model. PLoS Computational Biology, 2017.
